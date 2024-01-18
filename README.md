@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @sev-an
-- 👀 I’m interested in evolution
-- 🌱 I’m currently learning how to destroy the earth
-- 💞️ I’m looking to collaborate on video game development
-- 📫 How to reach me (https://twitter.com/SevanDev)
+yo https://twitter.com/SevanDev
